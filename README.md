@@ -25,10 +25,10 @@ SonarQube 提供許多功能：
     - macOS
     >> brew install openjdk@11
     - Windows
-    >> [Java](!https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+    >> [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 
 2. 至官網下載  
-[SonarQube載點](!https://www.sonarsource.com/products/sonarqube/downloads/success-download-community-edition/)
+[SonarQube載點](https://www.sonarsource.com/products/sonarqube/downloads/success-download-community-edition/)
 
 3. 執行程式
     - linux  
